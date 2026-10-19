@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+     https://github.com/nalin1212/CluckCare.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -130,7 +130,4 @@ open up you local host and port
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
-
-
-
 
